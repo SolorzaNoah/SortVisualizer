@@ -1,8 +1,8 @@
 {
-  "name": "sorting-visualizer",
+  "name": "SortVisualizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://salazarbrandon1257.github.io/sorting-visualizer",
+  "homepage": "https://github.com/SolorzaNoah/SortVisualizer",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@testing-library/jest-dom": "^4.2.4",
